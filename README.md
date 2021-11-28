@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Benny Cheng
 - 👀 I’m interested in **JavaScript** and **Python** 
-- 🌱 I’m currently learning **React.js** and **Next.js** 
+- 🌱 I’m currently learning **React.js**, **Next.js** and more **MongoDB** 
 - 💞️ I’m looking to collaborate on **Web Development** projects
 - 📫 Please reach me though my email address
 
